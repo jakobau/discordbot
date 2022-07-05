@@ -4,7 +4,7 @@
   "description": "Discord Bot for personal use. Using the link below for guide:\r https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/",
   "main": "bot.js",
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+    "@discordjs/opus": "^0.8.0",
     "discord.js": "^12.1.1",
     "ffmpeg": "0.0.4",
     "ffmpeg-binaries": "^3.2.2-3",
